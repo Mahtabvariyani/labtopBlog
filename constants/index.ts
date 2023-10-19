@@ -60,46 +60,46 @@ export const smallIcons = [
 
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Real Plan can be offline',
     icon: '/matte.png',
     variant: 'teal',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
   {
-    title: 'Set an adventure schedule',
+    title: 'Set an Learning schedule',
     icon: '/Marketing.png',
     variant: 'yellow',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
   {
     title: 'Technology using augment reality',
     icon: '/Media.png',
     variant: 'blue',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
   {
-    title: 'Many new locations every month',
+    title: 'Many new Plans every month',
     icon: '/perspective.png',
     variant: 'indigo-50',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
   {
-    title: 'Technology using augment reality',
+    title: 'Technology using daily reality',
     icon: '/mattte.png',
     variant: 'blue',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
   {
-    title: 'Many new locations every month',
+    title: 'Many new courses  every month',
     icon: '/Customer.png',
     variant: 'indigo-50',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim suscipit ea corporis blanditiis eos laborum quia temporibus necessitatibus voluptatibus optio beatae odio officia, consectetur veritatis rem amet cupiditate similique quisquam? Earum animi iusto culpa aliquam esse nesciunt dolorum perferendis saepe'
   },
 ];
 
