@@ -10,7 +10,8 @@ const Hero = () => {
 
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <h1 className="bold-52 lg:bold-88 text-pink-90">
-          This is the API Blog
+          This is the API Blog 
+          each page diffrent api
         </h1>
         <p className="regular-16 mt-6 text-pink-100 xl:max-w-[520px]">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto sequi
