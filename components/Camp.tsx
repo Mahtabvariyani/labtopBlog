@@ -12,17 +12,16 @@ const CampSite = ({
   peopleJoined,
 }: CampProps) => {
   return (
-    <div
-      className={`h-full w-full min-w-[1100px] ${backgroundImage} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}
-    >
-      <div className="flex h-full flex-col items-start justify-between p-6 lg:px-20 lg:py-10">
+    
+    <div className={`h-full w-full   min-w-[500px] ${backgroundImage} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}>
+    
+    <div className="flex h-full flex-col items-start justify-between p-6 lg:px-20 lg:py-10">
         <div className="flexCenter gap-4">
           <div className="rounded-full bg-pink-90 p-4" />
-
           <div className="flex flex-col gap-1">
-            <h4 className="bold-18 text-white">{title}</h4>
-            <p className="regular-14 text-white">{subtitle}</p>
-          </div>
+          <h4 className="bold-18 text-white">{title}</h4>
+          <p className="regular-14 text-white">{subtitle}</p>
+        </div>
         </div>
 
         <div className="flexCenter gap-6">
@@ -64,9 +63,13 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
 
-   
           <p className="regular-14 xl:regular-16 mt-5 text-pink-20">
-           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil iusto distinctio totam aut non illo laboriosam laudantium modi aspernatur consectetur reprehenderit saepe, dolorem veritatis laborum a perspiciatis sit maxime corrupti nisi consequuntur ad deleniti adipisci. Laudantium earum quisquam at quo labore veritatis nihil, nisi ipsam hic eligendi minima doloribus dicta!
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil
+            iusto distinctio totam aut non illo laboriosam laudantium modi
+            aspernatur consectetur reprehenderit saepe, dolorem veritatis
+            laborum a perspiciatis sit maxime corrupti nisi consequuntur ad
+            deleniti adipisci. Laudantium earum quisquam at quo labore veritatis
+            nihil, nisi ipsam hic eligendi minima doloribus dicta!
           </p>
         </div>
       </div>

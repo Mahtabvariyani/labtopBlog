@@ -33,9 +33,9 @@ module.exports = {
         },
       },
       backgroundImage: {
-        'bg-img-1': "url('/img-1.jpg')",
-        'bg-img-2': "url('/img-2.jpg')",
-        'bg-img-3': "url('/img-3.jpg')",
+        'bg-img-1': "url('/laptop.jpg')",
+        'bg-img-2': "url('/bookbanner.jpeg')",
+        'bg-img-3': "url('/foodbanner.jpg')",
         
       },
       screens: {

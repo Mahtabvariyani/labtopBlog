@@ -8,7 +8,7 @@ const GetApp = () => {
       <div className="get-app rounded-3xl">
         <div className="z-20 flex w-full flex-1 flex-col items-start justify-center gap-12">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[320px]">
-            Get the Plan now For Free!
+            Check The Apis free!!
           </h2>
           <p className="regular-16 text-pink-20">
          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae rem eaque quia provident tempore nesciunt aspernatur praesentium exercitationem, quo quasi veniam accusantium voluptatum nam aperiam veritatis porro corporis quis consectetur.

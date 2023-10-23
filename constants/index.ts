@@ -8,52 +8,44 @@ export const NAV_LINKS = [
 
 export const smallIcons = [
   {
-    src: "/facebook.png",
-    key: "facebook",
-    alt: "facebook",
+    src: "/nesicon.png",
+    key: "news",
+    alt: "news",
     width: 60,
     height: 60,
-    href:'https://www.facebook.com/'
+    href:'/news'
   },
   {
-    src: "/instgram.png",
-    key: "instgram",
-    alt: "instgram",
+    src: "/food.png",
+    key: "food",
+    alt: "food",
     width: 60,
     height: 60,
-    href:'https://www.instagram.com/'
+    href:'/food'
   },
   {
-    src: "/twitter.png",
-    key: "twitter",
-    alt: "twitter",
+    src: "/book.png",
+    key: "book",
+    alt: "book",
     width: 60,
     height: 60,
-    href:'https://twitter.com/'
+    href:'/books'
   },
   {
-    src: "/whatsapp.png",
-    key: "whatsapp",
-    alt: "whatsapp",
+    src: "/webIcon.png",
+    key: "tech",
+    alt: "tech",
     width: 60,
     height: 60,
-    href:'https://web.whatsapp.com/'
+    href:'/coding'
   },
   {
-    src: "/youtube.png",
-    key: "youtube",
-    alt: "youtube",
+    src: "/more.png",
+    key: "none",
+    alt: "none",
     width: 60,
     height: 60,
-    href:'https://www.youtube.com/'
-  },
-  {
-    src: "/telegram.png",
-    key: "telegram",
-    alt: "telegram",
-    width: 60,
-    height: 60,
-    href:'https://web.telegram.org/a/'
+    href:'#'
   },
 ];
 
