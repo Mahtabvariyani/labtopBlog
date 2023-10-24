@@ -22,8 +22,6 @@ const NewsForm = () => {
         `https://newsdata.io/api/1/news?apikey=${process.env.NEXT_PUBLIC_NEWS_API_KEY}&q=${input}`
       );
       setResults(response.data.results);
-
-      console.log(response);
     } catch (error) {
       console.log(error);
     }

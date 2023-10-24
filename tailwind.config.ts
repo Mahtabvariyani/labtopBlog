@@ -36,6 +36,13 @@ module.exports = {
         'bg-img-1': "url('/laptop.jpg')",
         'bg-img-2': "url('/bookbanner.jpeg')",
         'bg-img-3': "url('/foodbanner.jpg')",
+        'bg-img-4': "url('/five.jpg')",
+        'bg-img-5': "url('/six.jpg')",
+        'bg-img-6': "url('/one.jpg')",
+        'bg-img-7': "url('/three.jpg')",
+        'bg-img-8': "url('/two.jpg')",
+        'bg-img-9': "url('/one.jpg')",
+
         
       },
       screens: {

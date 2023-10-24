@@ -1,5 +1,4 @@
 import React from "react";
-import NewsCard from "./components/NewsCard";
 import NewsForm from "./components/NewsForm";
 
 const page = () => {
