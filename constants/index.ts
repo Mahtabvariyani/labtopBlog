@@ -46,6 +46,13 @@ export const smallIcons = [
     width: 60,
     height: 60,
     href:'#'
+  },  {
+    src: '/List.png',
+    key: "list",
+    alt: "list",
+    width: 60,
+    height: 60,
+    href:'/list'
   },
 ];
 
